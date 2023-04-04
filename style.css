@@ -1,0 +1,29 @@
+table{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(202, 202, 215);
+    height: 40px;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th,table,td{
+    border:  solid black;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+
+}
+button{
+    background-color: rgb(184, 231, 237);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    margin: 8px;
+    font-size: 16px;
+    
+}
+.pointer{
+    cursor: pointer;
+      }
+
